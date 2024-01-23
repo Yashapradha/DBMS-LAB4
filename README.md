@@ -1,4 +1,10 @@
-  **COLLEGE DATABASE**
+# SQL PROGRAMMING
+___
+
+## Lab program-4
+
+**COLLEGE DATABASE**
+
 Consider the schema for College Database:
 _`STUDENT` (USN, SName, Address, Phone, Gender) 
 `SEMSEC` (SSID, Sem, Sec) 
