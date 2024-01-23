@@ -1,10 +1,10 @@
   **COLLEGE DATABASE**
 Consider the schema for College Database:
-_STUDENT (USN, SName, Address, Phone, 
-Gender) SEMSEC (SSID, Sem, Sec) 
-CLASS (USN, SSID)
-SUBJECT (Subcode, Title, Sem, Credits)
-IAMARKS (USN, Subcode, SSID, Test1, Test2, Test3, FinalIA)_
+_`STUDENT` (USN, SName, Address, Phone, Gender) 
+`SEMSEC` (SSID, Sem, Sec) 
+`CLASS` (USN, SSID)
+`SUBJECT` (Subcode, Title, Sem, Credits)
+`IAMARKS` (USN, Subcode, SSID, Test1, Test2, Test3, FinalIA)_
 Write SQL queries to
 1. List all the student details studying in fourth semester ‘C’ section.
 2. Compute the total number of male and female students in each semester and in each 
