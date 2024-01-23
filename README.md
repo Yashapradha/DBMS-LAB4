@@ -6,6 +6,7 @@ ___
 **COLLEGE DATABASE**
 
 Consider the schema for College Database:
+
 _`STUDENT` (USN, SName, Address, Phone, Gender) 
 `SEMSEC` (SSID, Sem, Sec) 
 `CLASS` (USN, SSID)
